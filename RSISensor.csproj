@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="KUKA.RSI\**" />
+    <EmbeddedResource Remove="KUKA.RSI\**" />
+    <None Remove="KUKA.RSI\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\KUKA_RSI\KUKA_RSI.csproj" />
   </ItemGroup>
 
