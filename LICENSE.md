@@ -1,2 +1,2 @@
 
-Copyright (C) 2025 Cody
+Copyright (C) 2025 Radchuk Egor
