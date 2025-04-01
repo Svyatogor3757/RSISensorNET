@@ -1,0 +1,3 @@
+[submodule "KUKA.RSI"]
+	path = KUKA.RSI
+	url = https://github.com/Svyatogor3757/KUKA.RSI.git
